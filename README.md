@@ -1,6 +1,8 @@
 # FontAwesomeLuaTable
 
-Generates a lua table for FontAwesome4. Works with LuaJIT, Lua 5.3 and above.
+Something similar to https://github.com/juliettef/IconFontCppHeaders
+
+A lua table for FontAwesome4. Works with LuaJIT, Lua 5.3 and above.
 
 ## Generate
 
