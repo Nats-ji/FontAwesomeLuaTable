@@ -12,6 +12,7 @@ npm start
 Output files are located at `lua/`.
 
 ## Usage
+Copy [IconsFontAwesome4.lua](https://github.com/Nats-ji/FontAwesomeLuaTable/raw/master/lua/IconsFontAwesome4.lua) to your project.
 
 ```lua
 IconGlyphs = require("IconsFontAwesome4")
