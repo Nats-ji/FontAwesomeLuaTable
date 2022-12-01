@@ -2,7 +2,7 @@
 
 Something similar to https://github.com/juliettef/IconFontCppHeaders
 
-A lua table for FontAwesome4. Works with LuaJIT, Lua 5.3 and above.
+A lua table for [FontAwesome4](https://github.com/FortAwesome/Font-Awesome/blob/4.x/fonts/fontawesome-webfont.ttf). Works in LuaJIT, Lua 5.3 and above.
 
 ## Generate
 
