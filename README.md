@@ -13,7 +13,7 @@ npm install
 npm run build
 ```
 
-Output files are located at `lua/`.
+Output files are located in folders prefixed with `Font`.
 
 ## Usage
 
