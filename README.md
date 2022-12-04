@@ -2,8 +2,13 @@
 
 Something similar to https://github.com/juliettef/IconFontCppHeaders
 
-- A lua table for [FontAwesome4](https://github.com/FortAwesome/Font-Awesome/blob/4.x/fonts/). Works in LuaJIT, Lua 5.3 and above.
-- A cpp header and a lua table for the community version [Material Design Icons](https://github.com/Templarian/MaterialDesign)
+C++ headers and Lua tables for:
+- [FontAwesome4](https://github.com/FortAwesome/Font-Awesome/blob/4.x/fonts/)
+- [Material Design Icons](https://github.com/Templarian/MaterialDesign)
+
+> **Note**
+>
+> Only works on LuaJIT, Lua 5.3 and above.
 
 ## Generate
 `npm run build [FA4 | MD]`
