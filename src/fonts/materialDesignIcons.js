@@ -27,7 +27,7 @@ class fontMaterialDesignIcons extends iconFont {
     let str = `U+${aIcon.codepoint} ${aIcon.name}`;
     if (aIcon.hasOwnProperty("aliases") && Array.isArray(aIcon.aliases) && aIcon.aliases.length > 0)
       str += `, aliases: ${aIcon.aliases.join(", ")}`;
-    if (aIcon.hasOwnProperty("tags") && Array.isArray(aIcon.tags) && aIcon.aliases.tags > 0)
+    if (aIcon.hasOwnProperty("tags") && Array.isArray(aIcon.tags) && aIcon.tags.length > 0)
       str += `, tags: ${aIcon.tags.join(", ")}`;
     return str;
   }
